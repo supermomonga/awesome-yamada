@@ -11,6 +11,7 @@ Your Pull Requests are always welcome!
   - [Shell](#shell)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+- [License](#license)
 
 
 ## Emacs
@@ -42,3 +43,7 @@ Your Pull Requests are always welcome!
 # Contributing
 
 Your contributions are always welcome!
+
+# License
+
+The all markdown files in this GitHub repository are licensed under the [Public Domain](http://creativecommons.org/licenses/publicdomain/).
