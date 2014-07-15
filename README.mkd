@@ -7,6 +7,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for yamad
 - [Awesome yamada](#awesome-yamada)
   - [Emacs](#emacs)
   - [Vim](#vim)
+  - [Shell](#shell)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -19,6 +20,9 @@ Your Pull requests are welcome! Let's make this the awesomest resource for yamad
 - [yamada-vim](https://github.com/mattn/yamada-vim) - Dancing yamada in Vim
 - [yamada2-vim](https://github.com/mattn/yamada2-vim) - Dancing colorful yamada in Vim
 
+## Shell
+
+- [Yamada.sh](https://github.com/fumiyas/Yamada.sh) - Dancing yamada in shell
 
 # Other Awesome Lists
 
