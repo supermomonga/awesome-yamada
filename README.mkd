@@ -12,11 +12,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for yamad
 
 ## Emacs
 
-[yamada-el](https://github.com/gongo/yamada-el)
+- [yamada-el](https://github.com/gongo/yamada-el) - Dancing yamada in Emacs
 
 ## Vim
 
-[yamada-vim](https://github.com/mattn/yamada-vim)
+- [yamada-vim](https://github.com/mattn/yamada-vim) - Dancing yamada in Vim
+- [yamada2-vim](https://github.com/mattn/yamada2-vim) - Dancing colorful yamada in Vim
 
 
 # Other Awesome Lists
