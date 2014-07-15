@@ -1,0 +1,18 @@
+# Awesome yamada
+
+A curated list of awesome yamada. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) & [awesome-python](https://github.com/vinta/awesome-python) and other awesomes.
+
+Your Pull requests are welcome! Let's make this the awesomest resource for yamada!
+
+- [Awesome yamada](#awesome-yamada)
+  - [Emacs](#emacs)
+  - [Vim](#vim)
+
+## Emacs
+
+[yamada-el](https://github.com/gongo/yamada-el)
+
+## Vim
+
+[yamada-vim](https://github.com/mattn/yamada-vim)
+
