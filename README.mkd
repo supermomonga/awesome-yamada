@@ -8,21 +8,31 @@ Your Pull requests are welcome! Let's make this the awesomest resource for yamad
   - [Emacs](#emacs)
   - [Vim](#vim)
   - [Tera Term](#tera-term)
+  - [Shell](#shell)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
 
 ## Emacs
 
 - [yamada-el](https://github.com/gongo/yamada-el) - Dancing yamada in Emacs
+
 
 ## Vim
 
 - [yamada-vim](https://github.com/mattn/yamada-vim) - Dancing yamada in Vim
 - [yamada2-vim](https://github.com/mattn/yamada2-vim) - Dancing colorful yamada in Vim
 
+
 ## Tera Term
 
 - [yamada.ttl](https://gist.github.com/ttdoda/715c553db597981f4179) - Dancing yamada in Tera Term
+
+
+## Shell
+
+- [Yamada.sh](https://github.com/fumiyas/Yamada.sh) - Dancing yamada in shell
+
 
 # Other Awesome Lists
 
