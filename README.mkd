@@ -17,6 +17,7 @@ Your Pull requests are welcome! Let's make this the awesomest resource for yamad
 ## Vim
 
 - [yamada-vim](https://github.com/mattn/yamada-vim) - Dancing yamada in Vim
+- [yamada2-vim](https://github.com/mattn/yamada2-vim) - Dancing colorful yamada in Vim
 
 
 # Other Awesome Lists
