@@ -1,8 +1,8 @@
 # Awesome yamada
 
-A curated list of awesome yamada. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) & [awesome-python](https://github.com/vinta/awesome-python) and other awesomes.
+A curated list of awesome Dancing yamada.
 
-Your Pull requests are welcome! Let's make this the awesomest resource for yamada!
+Your Pull Requests are always welcome!
 
 - [Awesome yamada](#awesome-yamada)
   - [Emacs](#emacs)
