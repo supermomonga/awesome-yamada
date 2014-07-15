@@ -7,6 +7,8 @@ Your Pull requests are welcome! Let's make this the awesomest resource for yamad
 - [Awesome yamada](#awesome-yamada)
   - [Emacs](#emacs)
   - [Vim](#vim)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
 
 ## Emacs
 
@@ -16,3 +18,12 @@ Your Pull requests are welcome! Let's make this the awesomest resource for yamad
 
 [yamada-vim](https://github.com/mattn/yamada-vim)
 
+
+# Other Awesome Lists
+
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [lists](https://github.com/jnv/lists)
+
+# Contributing
+
+Your contributions are always welcome!
